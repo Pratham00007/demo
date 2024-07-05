@@ -1,4 +1,4 @@
 # demo
 learning about git
 <br>
-author-pratham
+author-Pratham
